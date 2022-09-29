@@ -1,0 +1,13 @@
+spring:
+  redis:
+    host: r-uf6xfg2eczr82x4fz2.redis.rds.aliyuncs.com
+    database: 0
+    password: Sass#pr076oK!1
+    timeout: 0
+    pool:
+      max-active: 10000
+      max-idle: 100
+      max-wait: 500
+      min-idle: 10
+
+
